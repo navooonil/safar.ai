@@ -1,0 +1,200 @@
+{
+  "Top Indian Places": {
+    "rows": 325,
+    "cols": 16,
+    "columns": [
+      {
+        "col": "Unnamed: 0",
+        "type": "int64",
+        "sample": "0"
+      },
+      {
+        "col": "Zone",
+        "type": "str",
+        "sample": "Northern"
+      },
+      {
+        "col": "State",
+        "type": "str",
+        "sample": "Delhi"
+      },
+      {
+        "col": "City",
+        "type": "str",
+        "sample": "Delhi"
+      },
+      {
+        "col": "Name",
+        "type": "str",
+        "sample": "India Gate"
+      },
+      {
+        "col": "Type",
+        "type": "str",
+        "sample": "War Memorial"
+      },
+      {
+        "col": "Establishment Year",
+        "type": "str",
+        "sample": "1921"
+      },
+      {
+        "col": "time needed to visit in hrs",
+        "type": "float64",
+        "sample": "0.5"
+      },
+      {
+        "col": "Google review rating",
+        "type": "float64",
+        "sample": "4.6"
+      },
+      {
+        "col": "Entrance Fee in INR",
+        "type": "int64",
+        "sample": "0"
+      },
+      {
+        "col": "Airport with 50km Radius",
+        "type": "str",
+        "sample": "Yes"
+      },
+      {
+        "col": "Weekly Off",
+        "type": "str",
+        "sample": "Monday"
+      },
+      {
+        "col": "Significance",
+        "type": "str",
+        "sample": "Historical"
+      },
+      {
+        "col": "DSLR Allowed",
+        "type": "str",
+        "sample": "Yes"
+      },
+      {
+        "col": "Number of google review in lakhs",
+        "type": "float64",
+        "sample": "2.6"
+      },
+      {
+        "col": "Best Time to visit",
+        "type": "str",
+        "sample": "Evening"
+      }
+    ]
+  },
+  "Tourism Dataset": {
+    "rows": 5989,
+    "cols": 7,
+    "columns": [
+      {
+        "col": "Location",
+        "type": "str",
+        "sample": "kuBZRkVsAR"
+      },
+      {
+        "col": "Country",
+        "type": "str",
+        "sample": "India"
+      },
+      {
+        "col": "Category",
+        "type": "str",
+        "sample": "Nature"
+      },
+      {
+        "col": "Visitors",
+        "type": "int64",
+        "sample": "948853"
+      },
+      {
+        "col": "Rating",
+        "type": "float64",
+        "sample": "1.32"
+      },
+      {
+        "col": "Revenue",
+        "type": "float64",
+        "sample": "84388.38"
+      },
+      {
+        "col": "Accommodation_Available",
+        "type": "str",
+        "sample": "Yes"
+      }
+    ]
+  },
+  "Travel Details": {
+    "rows": 139,
+    "cols": 13,
+    "columns": [
+      {
+        "col": "Trip ID",
+        "type": "int64",
+        "sample": "1"
+      },
+      {
+        "col": "Destination",
+        "type": "str",
+        "sample": "London, UK"
+      },
+      {
+        "col": "Start date",
+        "type": "str",
+        "sample": "5/1/2023"
+      },
+      {
+        "col": "End date",
+        "type": "str",
+        "sample": "5/8/2023"
+      },
+      {
+        "col": "Duration (days)",
+        "type": "float64",
+        "sample": "7.0"
+      },
+      {
+        "col": "Traveler name",
+        "type": "str",
+        "sample": "John Smith"
+      },
+      {
+        "col": "Traveler age",
+        "type": "float64",
+        "sample": "35.0"
+      },
+      {
+        "col": "Traveler gender",
+        "type": "str",
+        "sample": "Male"
+      },
+      {
+        "col": "Traveler nationality",
+        "type": "str",
+        "sample": "American"
+      },
+      {
+        "col": "Accommodation type",
+        "type": "str",
+        "sample": "Hotel"
+      },
+      {
+        "col": "Accommodation cost",
+        "type": "str",
+        "sample": "1200"
+      },
+      {
+        "col": "Transportation type",
+        "type": "str",
+        "sample": "Flight"
+      },
+      {
+        "col": "Transportation cost",
+        "type": "str",
+        "sample": "600"
+      }
+    ]
+  }
+}
