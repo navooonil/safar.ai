@@ -40,3 +40,7 @@ yarn-error.log*
 
 # Ignore large db files or pkls if needed (leaving pkls as we probably want them for the repo unless very large)
 # *.pkl
+
+# AI Agents
+.agents/
+skills-lock.json
